@@ -1,9 +1,7 @@
 #include <stdio.h>
 /**
-* struct my_struct - Write a C program
-* @a: Marcela Quintero
-* Description: C program  that prints exactly ...
-* Use the function puts
+ * main - Starting point for execution program
+ * Return: Always 0 (Success)
 */
 int main(void)
 {
