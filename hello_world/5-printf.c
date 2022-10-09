@@ -1,6 +1,8 @@
 #include <stdio.h>
 /**
-* int main - C program that prints
+* main - Starting point for program execution
+* Return: Always 0 (Succes)
+*
 * @a: Marcela Quintero
 *
 * Description: C program that prints ...
