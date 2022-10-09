@@ -1,1 +1,1 @@
-README for C proyect in Holberton School
+README for C proyect in Holberto
