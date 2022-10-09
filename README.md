@@ -1,1 +1,1 @@
-README for C proyect
+README for C proyect in Holberton
